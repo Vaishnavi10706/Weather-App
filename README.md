@@ -6,6 +6,8 @@ This project demonstrates API integration, state management, and clean UI design
 
 ---
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://weather-app-sigma-nine-47.vercel.app)
+
 ## 🚀 Features
 
 - 🔍 Search weather by city name
@@ -19,10 +21,10 @@ This project demonstrates API integration, state management, and clean UI design
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Vite
-- **Styling:** CSS
-- **API:** OpenWeather API
-- **Version Control:** Git & GitHub
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-4-purple?style=for-the-badge&logo=vite)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
 ---
 
@@ -35,6 +37,9 @@ This project demonstrates API integration, state management, and clean UI design
 ![Search Feature](./screenshot/screenshot2.png)
 
 ---
+
+## Deployment
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)
 
 ## ⚙️ Installation & Setup
 
@@ -90,6 +95,7 @@ Weather-App/
 ## 👩‍💻 Author
 
 Vaishnavi
+
 GitHub: Vaishnavi10706
 
 ⭐ If you like this project, consider giving it a star!
